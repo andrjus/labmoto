@@ -1,0 +1,8 @@
+#include "core/robosd_cell.c"
+#include "core/robosd_vartable.c"
+#include "freemaster/freemaster.cpp"
+#include "mexo/mexo.c"
+#include "mexo/net/flow/dev.flow.proto.c"
+#include "mexo/machine/power/generator.proto.stub.c"
+#include "mexo/mexo_signal.c"
+#include "mexo/mexo_sin.c"
